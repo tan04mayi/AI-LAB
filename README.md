@@ -1,1 +1,1 @@
-# AI-lab 5th sem
+# Artificial Intelligence LAB 5th sem
