@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 29 11:17:35 2024
-
-@author: Admin
-"""
 
 class KnowledgeBase:
     def __init__(self):
